@@ -5,7 +5,7 @@ import numpy as np
 
 def make_instance():
     # set the number of random numbers
-    num_rands = 200
+    num_rands = 2000
     # set K
     K = 5
     # set random numbers
